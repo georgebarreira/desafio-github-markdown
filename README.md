@@ -10,9 +10,9 @@
 
 3. Criar Fork [x]
 
-4. baixar conteudo para as máquinas usando git []
+4. baixar conteudo para a máquina usando git []
 
-5. Adicionar tag git []
+5. Adicionar tag usando git []
 
 6. Adicionar colaborador [x]
 
