@@ -6,7 +6,7 @@
 
 2. Criar conta extra para executar colaboração [X]
 
-2.1. Usar 2FA [x]
+    - Usar 2FA [x]
 
 3. Criar Fork [x]
 
@@ -18,10 +18,10 @@
 
 7. Colaborador Abrir pull request [x]
 
-    1. Merge Pull Request [x]
+    - Merge Pull Request [x]
 
 8. Colaborador Abrir Issues [x]
 
-    1. Solução de issues []
+    - Solução de issues [x]
 
  
