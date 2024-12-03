@@ -12,3 +12,4 @@ Objetivos:
 7. Colaborador Abrir pull request []
 8. Colaborador Abrir Issues []
 9. Solução de issues []
+10. 
